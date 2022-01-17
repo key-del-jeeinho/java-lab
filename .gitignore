@@ -1,2 +1,9 @@
-# Project exclude paths
+### IntelliJ ###
+.idea
+/out
+
+### Gradle ###
 /.gradle/
+
+### SpringBoot ###
+application.*
